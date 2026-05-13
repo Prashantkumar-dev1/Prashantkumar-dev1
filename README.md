@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Prashant kumar
 
-### 🚀 Full Stack Developer | MERN Stack | GenAI Learner
+### 🚀 Full Stack Developer | MERN Stack 
 
 ---
 
