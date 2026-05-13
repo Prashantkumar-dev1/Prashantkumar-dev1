@@ -10,7 +10,6 @@
 I am pursuing Bacholer of technology in Computer Science Engineering at Invertis University, I am a passionate Full Stack Developer currently, with hands-on experience in building modern web applications using the MERN stack.  
 I enjoy solving real-world problems through code and continuously learning new technologies.
 
-- 🌱 Currently exploring **Generative AI & Advanced React Development**
 - 💻 Skilled in **Frontend + Backend Development (MERN Stack)**
 - 🚀 Building real-world projects with scalable architecture
 - 🎯 Goal: To become a top-tier developer and build impactful tech products
@@ -34,9 +33,6 @@ I enjoy solving real-world problems through code and continuously learning new t
 ### 🗄️ Database
 - MongoDB  
 
-### 🤖 Currently Learning
-- Generative AI (GenAI)
-- AI-powered web applications
 
 ### 🔧 Tools
 - Git & GitHub  
